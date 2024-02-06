@@ -1,7 +1,7 @@
 # cuby0401
 
 20 y/o
- Germany
+Germany
 
 <!---
 cuby0401/cuby0401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
