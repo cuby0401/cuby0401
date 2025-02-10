@@ -1,6 +1,6 @@
 # cuby0401
 
-20 y/o
+21 y/o
 Germany
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuby0401)](https://github.com/anuraghazra/github-readme-stats)
